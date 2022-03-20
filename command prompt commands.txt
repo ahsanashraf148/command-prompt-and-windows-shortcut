@@ -1,0 +1,108 @@
+Command Prompt Commands:
+
+<Drive name>: -to change the current drive
+
+
+
+cd <folder name>-to change directoy or folder within that folder
+
+cd .. -to go back to parent directory
+
+dir -to list the files and folders in the current folder
+
+dir Desktop\<some file> -to list the files and folders in the mentioned directory.
+
+dir /a -to see hidden system files
+
+cls -clears the command prompt screen
+================================
+
+TO OPEN A WEBSITE:
+start <website url>
+
+
+
+dir *.<txt/c/cpp.png etc>v -to list all the files related to mentioned datatype.
+
+<file name> -to open the file.
+
+tree -to see a flowchart of all the folders
+
+
+
+
+
+F7 -to check session history.
+
+help(behind a command) -to get command related help
+
+color <with color code eg: 0A> -to change color of commands.
+where 0 represents the background and A represents the color of fonts.
+
+
+title <with new name> -to change the name of title.
+
+prompt <with new name>$<with an alpabet> -to change prompt.
+
+md <name> -to make a folder
+mkdir <name> -to make a folder
+
+rd <name> -to delete an empty folder
+rd /s <name> -to delete an umempty folder
+
+md <name>\ to make folder with unallowed name.
+rd <name>\ to delete folder with unallowed name.
+
+wmic product get name to get list of programs installed.
+------------------------------
+
+<command> > <file name> -to insert the output of file in the mentioned file
+
+<command> | clip to save the output of a command in clipboard.
+---------------------------
+
+FILE ATTRIBUTES:
+attrib +h <file name> to hide the folder.
+
+attrib +h +s +r <folder name> to hide the folder , to unhide the folder change + with -
+
+------------------------------
+
+
+telnet towel.blinkenlights.nl to view star wars movie . Dont forget to check the telnet feature by using windows features.
+
+----------------------------------
+
+del <file name> -to delete a file
+
+echo <text> > <file name> -to rewrite file 
+
+echo <text> >> <file name> -to insert in file
+
+type <file name> -to print the text of file in command prompt
+
+---------------------------------------
+
+copy <file to copy> <where to copy> -copies the file in the mentioned folder , to copy in another drive we can write <drive name>: instead of <where to copy>
+
+xcopy copies more files in mentioned location
+xcopy <folder to copy> <where to copy> 
+
+to also copy folder also we can write:
+xcopy <folder files/subfolders to copy> <where to copy> /s
+
+move <file/folder> to <location folder>
+
+rename <file name> <new name>
+
+--------------------------------------
+
+
+
+
+
+
+
+
+c
+
